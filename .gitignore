@@ -1,0 +1,4 @@
+chromadb_env/
+chroma_db/
+*.csv
+DS_Store/
